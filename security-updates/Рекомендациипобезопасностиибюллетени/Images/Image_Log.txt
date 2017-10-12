@@ -1,0 +1,5 @@
+08_24_2017_04_20_54	ms14056-63172078	https://technet.microsoft.com/ru-RU/Dn817440.note(ru-RU,Security.10).gif
+08_24_2017_04_20_54	ms14058-63172080	https://technet.microsoft.com/ru-RU/Dn832052.note(ru-RU,Security.10).gif
+08_24_2017_04_20_54	ms14033-62490219	https://technet.microsoft.com/ru-RU/Dn727227.note(ru-RU,Security.10).gif
+08_24_2017_04_20_54	ms14005-61598097	https://technet.microsoft.com/ru-RU/Dn613825.note(ru-RU,Security.10).gif
+08_24_2017_04_20_54	2871997-62292143	https://technet.microsoft.com/ru-RU/Dn690109.note(ru-RU,Security.10).gif
