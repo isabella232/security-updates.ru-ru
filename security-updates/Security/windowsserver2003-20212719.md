@@ -123,7 +123,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     2.  Щелкните правой кнопкой мыши организационное подразделение **Domain Controllers** (Контроллеры домена) и выберите команду **Properties** (Свойства).
 
-        ![](images/Cc875836.sec_win2003_serv_dc_01(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_01(ru-ru,TechNet.10).jpg)
 
         **Примечание.** Снимки экрана в этом документе отражают тестовую среду. Имена домена и сервера в конкретной среде могут несколько отличаться от тех, которые показаны на снимках экрана.
 
@@ -131,7 +131,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     4.  Назовите политику **Domain Controllers Baseline Policy** (Базовая политика контроллеров домена), а затем нажмите кнопку **Close** (Закрыть).
 
-        ![](images/Cc875836.sec_win2003_serv_dc_02(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_02(ru-ru,TechNet.10).jpg)
 
 <!-- -->
 
@@ -143,17 +143,17 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     3.  Выберите команду **Up** (Вверх) для перемещения нового объекта групповой политики в начало списка, а затем нажмите кнопку **Edit** (Изменить).
 
-        ![](images/Cc875836.sec_win2003_serv_dc_03(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_03(ru-ru,TechNet.10).jpg)
 
         **Внимание!** Убедитесь, что изменения выполняются для параметра **Domain Controllers Baseline Policy** (Базовая политика контроллеров домена), а не **Default Domain Controllers Policy** (Политика по умолчанию для контроллеров домена). Неправильные изменения параметра **Default Domain Controllers Policy** (Политика по умолчанию для контроллеров домена) могут неблагоприятно повлиять на используемую среду, и их последствия трудно будет устранить.
 
     4.  В разделе **Computer Configuration** (Конфигурация компьютера) дважды щелкните папку **Windows Settings** щелкните правой кнопкой мыши **Security Settings** (Параметры безопасности), а затем выберите **Import Policy** (Импорт политики).
 
-        ![](images/Cc875836.sec_win2003_serv_dc_04(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_04(ru-ru,TechNet.10).jpg)
 
     5.  В диалоговом окне **Import Policy From** (Импорт политики из) выберите файл **Enterprise Client — Domain Controller.inf**, а затем — команду **Open** (Открыть).
 
-        ![](images/Cc875836.sec_win2003_serv_dc_05(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_05(ru-ru,TechNet.10).jpg)
 
     6.  Закройте окно **Group Policy Object Editor** (Редактор объектов групповой политики), нажмите кнопку **OK**, чтобы закрыть диалоговое окно, и выйдите из окна **Active Directory Users and Computers** (Active Directory — пользователи и компьютеры).
 
@@ -187,7 +187,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     3.  Если дважды щелкнуть это событие, появится окно **Event Properties** (Свойство: Событие), похожее на следующее:
 
-        ![](images/Cc875836.sec_win2003_serv_dc_06(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_06(ru-ru,TechNet.10).jpg)
 
     4.  Нажмите кнопку **OK** и закройте окно Event Viewer (Просмотр событий).
 
@@ -253,7 +253,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     5.  В разделе сведений (правый раздел) дважды щелкните **DHCP Server** (DHCP-сервер), выберите параметр **Automatic** (Автоматически), а затем нажмите кнопку **OK**.
 
-        ![](images/Cc875836.sec_win2003_serv_dc_07(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_07(ru-ru,TechNet.10).jpg)
 
     6.  Закройте окно **Group Policy Object Editor** (Редактор объектов групповой политики), нажмите кнопку **OK**, чтобы закрыть диалоговое окно, и выйдите из окна **Active Directory Users and Computers** (Active Directory — пользователи и компьютеры).
 
@@ -303,7 +303,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     5.  В разделе сведений дважды щелкните **WINS**, выберите параметр **Automatic** (Автоматически), а затем нажмите кнопку **OK**.
 
-        ![](images/Cc875836.sec_win2003_serv_dc_08(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_08(ru-ru,TechNet.10).jpg)
 
     6.  Закройте окно **Group Policy Object Editor** (Редактор объектов групповой политики), нажмите кнопку **OK**, чтобы закрыть диалоговое окно, и выйдите из окна **Active Directory Users and Computers** (Active Directory — пользователи и компьютеры).
 
@@ -353,7 +353,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     5.  В разделе сведений дважды щелкните **Print Spooler** (Диспетчер очереди печати), выберите параметр **Automatic** (Автоматически), а затем нажмите кнопку **OK**.
 
-        ![](images/Cc875836.sec_win2003_serv_dc_09(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_09(ru-ru,TechNet.10).jpg)
 
     6.  Закройте окно **Group Policy Object Editor** (Редактор объектов групповой политики), нажмите кнопку **OK**, чтобы закрыть диалоговое окно, и выйдите из окна **Active Directory Users and Computers** (Active Directory — пользователи и компьютеры).
 
@@ -403,7 +403,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     5.  В разделе сведений (правый раздел) дважды щелкните **IAS**, выберите параметр **Automatic** (Автоматически), а затем нажмите кнопку **OK**.
 
-        ![](images/Cc875836.sec_win2003_serv_dc_10(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_10(ru-ru,TechNet.10).jpg)
 
     6.  Закройте окно **Group Policy Object Editor** (Редактор объектов групповой политики), нажмите кнопку **OK**, чтобы закрыть диалоговое окно, и выйдите из окна **Active Directory Users and Computers** (Active Directory — пользователи и компьютеры).
 
@@ -451,7 +451,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     5.  В разделе сведений дважды щелкните **CertSvc**, выберите параметр **Automatic** (Автоматически), а затем нажмите кнопку **OK**.
 
-        ![](images/Cc875836.sec_win2003_serv_dc_11(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_11(ru-ru,TechNet.10).jpg)
 
     6.  Закройте окно **Group Policy Object Editor** (Редактор объектов групповой политики), нажмите кнопку **OK**, чтобы закрыть диалоговое окно, и выйдите из окна **Active Directory Users and Computers** (Active Directory — пользователи и компьютеры).
 
@@ -507,7 +507,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     5.  В разделе сведений дважды щелкните **Task Scheduler** (Планировщик заданий), выберите параметр **Automatic** (Автоматически), а затем нажмите кнопку **OK**.
 
-        ![](images/Cc875836.sec_win2003_serv_dc_12(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_12(ru-ru,TechNet.10).jpg)
 
     6.  Закройте окно **Group Policy Object Editor** (Редактор объектов групповой политики), нажмите кнопку **OK**, чтобы закрыть диалоговое окно, и выйдите из окна **Active Directory Users and Computers** (Active Directory — пользователи и компьютеры).
 
@@ -550,7 +550,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
     2.  В меню **Advanced** (Дополнительно) выберите **AT Service Account** (Учетная запись службы «AT»).
 
     3.  Выберите вариант **This Account** (Учетная запись), введите имя и пароль для учетной записи, которые не дают прав администратора контроллеру домена, а затем нажмите кнопку **OK**.
-        ![](images/Cc875836.sec_win2003_serv_dc_13(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_13(ru-ru,TechNet.10).jpg)
         **Внимание!** Убедитесь, что используемая учетная запись не принадлежит ни одной из административных групп (например, «Администраторы предприятия», «Администраторы домена» или «Администраторы»). Для этой цели рекомендуется создать специальную учетную запись службы и периодически проверять членство в группе учетной записи.
 
         Если требуется выполнить задачу, в которой используются учетные права администратора, необходимо назначить ее с помощью мастера добавления заданий в «Планировщике задач».
@@ -591,7 +591,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     1.  Нажмите кнопку **Start** (Пуск), выберите пункт **Control Panel** (Панель управления), дважды щелкните **Administrative Tools** (Администрирование), а затем— **DNS**.
 
-        ![](images/Cc875836.sec_win2003_serv_dc_14(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_14(ru-ru,TechNet.10).jpg)
 
     2.  В дереве консоли (левая область) щелкните DNS-сервер, который требуется настроить.
 
@@ -599,7 +599,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     4.  На вкладке **Interfaces** (Интерфейсы) выберите вариант **Only the following IP addresses** (Только следующие IP-адреса).
 
-        ![](images/Cc875836.sec_win2003_serv_dc_15(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_15(ru-ru,TechNet.10).jpg)
 
     5.  В поле **IP address** (IP-адрес) введите IP-адрес, который должен быть разрешен для использования данным DNS-сервером, и нажмите кнопку **Add** (Добавить).
 
@@ -629,7 +629,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     1.  Нажмите кнопку **Start** (Пуск), выберите пункт **Control Panel** (Панель управления), дважды щелкните **Administrative Tools** (Администрирование), а затем — **DNS**.
 
-        ![](images/Cc875836.sec_win2003_serv_dc_16(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_16(ru-ru,TechNet.10).jpg)
 
     2.  В дереве консоли (левая область) щелкните DNS-сервер, который требуется настроить.
 
@@ -639,7 +639,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     5.  В разделе **Server options** (Параметры сервера) выберите пункт **Disable recursion (also disables forwarders)** (Отключить рекурсию (также отключить отправителей)), а затем нажмите кнопку **OK**.
 
-        ![](images/Cc875836.sec_win2003_serv_dc_17(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_17(ru-ru,TechNet.10).jpg)
 
 #### Настройка корневых ссылок для предотвращения незащищенности данных
 
@@ -661,7 +661,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     1.  Нажмите кнопку **Start** (Пуск), выберите последовательно **Control Panel** (Панель управления), **Administrative Tools** (Администрирование), а затем — **DNS**.
 
-        ![](images/Cc875836.sec_win2003_serv_dc_18(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_18(ru-ru,TechNet.10).jpg)
 
     2.  В дереве консоли (левая область) щелкните DNS-сервер, который требуется настроить.
 
@@ -669,7 +669,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
     4.  Откройте вкладку **Root Hints** (Корневые ссылки).
 
-        ![](images/Cc875836.sec_win2003_serv_dc_19(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_19(ru-ru,TechNet.10).jpg)
 
     5.  Выделите имя каждого сервера, который перечислен в группе **Name servers** (Серверы имен), а затем нажмите кнопку **Remove** (Удалить).
 
@@ -753,7 +753,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875836(v=TechNet.10)'
 
         **Внимание!** Обновления безопасности часто требуют перезапуска контроллеров домена. Выберите день и время, когда отрицательные последствия для пользователей будут минимальными.
 
-        ![](images/Cc875836.sec_win2003_serv_dc_20(ru-ru,TechNet.10).jpg)
+        ![](/security-updates/images/Cc875836.sec_win2003_serv_dc_20(ru-ru,TechNet.10).jpg)
 
 ##### Использование Windows Update
 
