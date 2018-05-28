@@ -18,7 +18,7 @@ You can configure different aspects of the way WSUS server information is displa
 
 3.  Click **OK**.
 
-| ![](images/Cc708590.Important(WS.10).gif)Важно!                                                                                  |
+| ![](/security-updates/images/Cc708590.Important(WS.10).gif)Важно!                                                                                  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Computer and update status will roll up from downstream replica servers only. It is not possible to get rolled-up status from a downstream autonomous server. |
 
@@ -29,7 +29,7 @@ You can configure different aspects of the way WSUS server information is displa
 
 3.  Click **OK**.
 
-| ![](images/Cc708590.note(WS.10).gif)Примечание                 |
+| ![](/security-updates/images/Cc708590.note(WS.10).gif)Примечание                 |
 |---------------------------------------------------------------------------------------------|
 | If you choose this option, errors will appear as pop-up windows and not as links in the UI. |
 

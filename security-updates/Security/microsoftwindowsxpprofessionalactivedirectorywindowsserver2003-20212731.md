@@ -80,7 +80,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875847(v=TechNet.10)'
 
     **Примечание.** Снимки экрана в этом документе отражают тестовую среду. То, что вы видите на своем экране, может несколько отличаться от приведенных здесь снимков экрана.
 
-    ![](images/Cc875847.xpwinn01(ru-ru,TechNet.10).gif)
+    ![](/security-updates/images/Cc875847.xpwinn01(ru-ru,TechNet.10).gif)
 
     **Рис. 1. Предупреждение системы безопасности появляется при первом посещении веб-узла Windows Update**
 
@@ -98,7 +98,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875847(v=TechNet.10)'
 
 4.  По запросу нажмите кнопку**Accept** (Принять) для принятия необходимых лицензионных соглашений.
 
-    ![](images/Cc875847.xpwinn02(ru-ru,TechNet.10).gif)
+    ![](/security-updates/images/Cc875847.xpwinn02(ru-ru,TechNet.10).gif)
 
     **Рис. 2. Загрузка и установка обновлений безопасности**
 
@@ -126,7 +126,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875847(v=TechNet.10)'
 
 2.  Откройте вкладку **Automatic Updates** (Автоматическое обновление) (рис. 3).
 
-    ![](images/Cc875847.xpwinn03(ru-ru,TechNet.10).gif)
+    ![](/security-updates/images/Cc875847.xpwinn03(ru-ru,TechNet.10).gif)
 
     **Рис. 3. Настройка средства Automatic Updates (Автоматическое обновление) на компьютере-клиенте**
 
@@ -152,7 +152,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875847(v=TechNet.10)'
 
 4.  Щелкните правой кнопкой мыши **Local Area Connection** (Подключение по локальной сети) и выберите команду **Properties** (Свойства) (Рис. 4).
 
-    ![](images/Cc875847.xpwinn04(ru-ru,TechNet.10).gif)
+    ![](/security-updates/images/Cc875847.xpwinn04(ru-ru,TechNet.10).gif)
 
     **Рис. 4. Просмотр свойств подключения по локальной сети**
 
@@ -170,7 +170,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875847(v=TechNet.10)'
 
     **Примечание.** Эти параметры помогают определить происхождение пакетов данных, отправленных на компьютер, а также подключений к компьютеру через интернет.
 
-    ![](images/Cc875847.xpwinn05(ru-ru,TechNet.10).gif)
+    ![](/security-updates/images/Cc875847.xpwinn05(ru-ru,TechNet.10).gif)
 
     **Рис. 5. Параметры, которые позволяют определить происхождение пакетов данных и подключений**
 
@@ -208,7 +208,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875847(v=TechNet.10)'
 
 2.  Откройте вкладку **Computer Name** (Имя компьютера) (рис. 6).
 
-    ![](images/Cc875847.xpwinn06(ru-ru,TechNet.10).gif)
+    ![](/security-updates/images/Cc875847.xpwinn06(ru-ru,TechNet.10).gif)
 
     **Рис. 6. Вкладка Computer Name (Имя компьютера) в диалоговом окне System Properties (Свойства системы)**
 
@@ -228,7 +228,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875847(v=TechNet.10)'
 
 6.  На странице **User Account and Domain Information** (Сведения об учетной записи пользователя и домене) (рис. 7) введите имя пользователя и пароль пользователя Active Directory (любой член группы «Пользователи домена»), введите нужные сведения о домене и нажмите кнопку **Next** (Далее).
 
-    ![](images/Cc875847.xpwinn07(ru-ru,TechNet.10).gif)
+    ![](/security-updates/images/Cc875847.xpwinn07(ru-ru,TechNet.10).gif)
 
     **Рис. 7. Страница User Account and Domain Information (Сведения об учетной записи пользователя и домене) мастера сетевой идентификации**
 
@@ -236,7 +236,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875847(v=TechNet.10)'
 
     **Примечание.** При отсутствии данных о домене компьютера или необходимости подтвердить их можно найти эти сведения, выполнив процедуру поиска имени компьютера и данных о рабочей группе компьютера-клиента, описанную ранее в этом документе в разделе «Присоединение компьютера-клиента к домену». Имя компьютера содержит данные о домене, которые имеются на сервере.
 
-    ![](images/Cc875847.xpwinn08(ru-ru,TechNet.10).gif)
+    ![](/security-updates/images/Cc875847.xpwinn08(ru-ru,TechNet.10).gif)
 
     **Рис. 8. Страница Computer Domain (Домен компьютера) мастера сетевой идентификации**
 
@@ -246,13 +246,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875847(v=TechNet.10)'
 
 9.  На странице **User Account** (Учетные данные пользователя) (рис. 9) можно добавить учетные данные пользователя. Для этого введите имя пользователя, данные о домене и нажмите кнопку **Next** (Далее).
 
-    ![](images/Cc875847.xpwinn09(ru-ru,TechNet.10).gif)
+    ![](/security-updates/images/Cc875847.xpwinn09(ru-ru,TechNet.10).gif)
 
     **Рис. 9. Страница User Account (Учетные данные пользователя) мастера сетевой идентификации**
 
 10. На странице **Access Level** (Уровень доступа) (рис. 10) укажите уровень доступа, который имеет пользователь при использовании сетевых ресурсов, и его права. Уровни доступа показаны на рис. 10. При выборе параметров учитывайте роль пользователя в организации и его потребности. Рекомендуется выбрать вариант **Restricted user** (Пользователь с ограниченными правами) и нажать кнопку **Next** (Далее).
 
-    ![](images/Cc875847.xpwinn10(ru-ru,TechNet.10).gif)
+    ![](/security-updates/images/Cc875847.xpwinn10(ru-ru,TechNet.10).gif)
 
     **Рис. 10. Страница Access Level (Уровень доступа) мастера сетевой идентификации**
 
@@ -318,7 +318,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc875847(v=TechNet.10)'
 
 5.  В поле **Log on to** (Вход в) введите имя домена и нажмите кнопку  **OK**.
 
-    ![](images/Cc875847.xpwinn11(ru-ru,TechNet.10).gif)
+    ![](/security-updates/images/Cc875847.xpwinn11(ru-ru,TechNet.10).gif)
 
     **Рис. 11. Вход в систему домена**
 

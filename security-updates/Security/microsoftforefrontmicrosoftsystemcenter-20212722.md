@@ -13,7 +13,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc512590(v=TechNet.10)'
 
 Опубликовано 9 мая 2007 года
 
-![](images/Cc512590.security_technet(ru-ru,TechNet.10).jpg)
+![](/security-updates/images/Cc512590.security_technet(ru-ru,TechNet.10).jpg)
 
 *Рекс Бэкман (Rex Backman)*
 *старший менеджер по продукту, корпорация Майкрософт*

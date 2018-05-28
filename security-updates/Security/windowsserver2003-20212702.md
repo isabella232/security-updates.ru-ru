@@ -66,7 +66,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc163106(v=TechNet.10)'
 
 На схеме ниже показана тестовая сеть, созданная для среды EC.
 
-[![](images/Cc163106.apdxd_fg01(ru-ru,TechNet.10).gif)](https://technet.microsoft.com/ru-ru/cc163106.apdxd_fg01_big(ru-ru,technet.10).gif)
+[![](/security-updates/images/Cc163106.apdxd_fg01(ru-ru,TechNet.10).gif)](https://technet.microsoft.com/ru-ru/cc163106.apdxd_fg01_big(ru-ru,technet.10).gif)
 
 **Рис. D.1. Логическая схема тестовой сети для среды EC**
 
@@ -74,7 +74,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc163106(v=TechNet.10)'
 
 На схеме ниже показана тестовая сеть, созданная для среды SSLF.
 
-[![](images/Cc163106.apdxd_fg02(ru-ru,TechNet.10).gif)](https://technet.microsoft.com/ru-ru/cc163106.apdxd_fg02_big(ru-ru,technet.10).gif)
+[![](/security-updates/images/Cc163106.apdxd_fg02(ru-ru,TechNet.10).gif)](https://technet.microsoft.com/ru-ru/cc163106.apdxd_fg02_big(ru-ru,technet.10).gif)
 
 **Рис. Г.2. Логическая схема тестовой сети для среды SSLF**
 

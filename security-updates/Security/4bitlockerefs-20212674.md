@@ -145,7 +145,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Cc162807(v=TechNet.10)'
 
 **Таблица 4.1. Снижение рисков при совместном использовании Bitlocker и файловой системы EFS**
 
-![](images/Cc162807.53d5723f-6e99-4b7a-9dde-4c45fd75288c(ru-ru,TechNet.10).gif)
+![](/security-updates/images/Cc162807.53d5723f-6e99-4b7a-9dde-4c45fd75288c(ru-ru,TechNet.10).gif)
 **Файлы для загрузки**
 
 [Загрузите набор средств шифрования данных для мобильных ПК](http://go.microsoft.com/fwlink/?linkid=81666)
