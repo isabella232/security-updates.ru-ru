@@ -44,7 +44,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ru-ru/library/Dd546887(v=TechNet.10)'
 
 Следующий рисунок иллюстрирует содержимое и логическое подразделение серии «Identity and Access Management» версии 1.4.
 
-[![](images/Dd546887.Over1(ru-ru,TechNet.10).gif)](https://technet.microsoft.com/ru-ru/dd546887.over1_big(ru-ru,technet.10).gif)
+[![](/security-updates/images/Dd546887.Over1(ru-ru,TechNet.10).gif)](https://technet.microsoft.com/ru-ru/dd546887.over1_big(ru-ru,technet.10).gif)
 
 **Рис. 1. Документы, входящие в серию «Identity and Access Management»**
 
@@ -244,7 +244,7 @@ Microsoft Windows поддерживает ряд стандартов, позв
 
 На следующем рисунке показано, каким образом связаны входящие в серию документы.
 
-[![](images/Dd546887.Over2(ru-ru,TechNet.10).gif)](https://technet.microsoft.com/ru-ru/dd546887.over2_big(ru-ru,technet.10).gif)
+[![](/security-updates/images/Dd546887.Over2(ru-ru,TechNet.10).gif)](https://technet.microsoft.com/ru-ru/dd546887.over2_big(ru-ru,technet.10).gif)
 
 **Рис. 2. Перемещение по документам, входящим в серию «Identity and Access Management»**
 
@@ -256,7 +256,7 @@ Microsoft Windows поддерживает ряд стандартов, позв
 
 Созданная в процессе установки структура папок (зависит от места установки) будет похожа на приведенную на следующем рисунке.
 
-![](images/Dd546887.Over3(ru-ru,TechNet.10).gif)
+![](/security-updates/images/Dd546887.Over3(ru-ru,TechNet.10).gif)
 
 **Рис. 3. Структура папок средств и шаблонов**
 

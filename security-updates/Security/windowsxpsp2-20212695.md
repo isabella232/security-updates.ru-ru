@@ -392,7 +392,7 @@ ActiveX® — мощная платформа расширения для веб
 
 3.  В командной строке введите **GPUpdate**, а затем нажмите кнопку **ОК**. Должно появиться сообщение, показанное на следующем снимке экрана:
 
-    [![](images/Cc875819.XPNPT01(ru-ru,TechNet.10).gif)](https://technet.microsoft.com/ru-ru/cc875819.xpnpt01_big(ru-ru,technet.10).gif)
+    [![](/security-updates/images/Cc875819.XPNPT01(ru-ru,TechNet.10).gif)](https://technet.microsoft.com/ru-ru/cc875819.xpnpt01_big(ru-ru,technet.10).gif)
 
     Чтобы закрыть командную строку, введите **exit**, а затем нажмите ВВОД.
 
