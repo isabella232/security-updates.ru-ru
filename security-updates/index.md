@@ -4,6 +4,7 @@ Title: Выпуски советов и бюллетени по безопасн
 ms:assetid: 'ac28e14e-994a-4fc5-bf4c-cf15bbde97fc'
 ms:contentKeyID: 62171275
 ms:mtpsurl: 'https://technet.microsoft.com/ru-RU/library/Dn610807(v=Security.10)'
+ms.author: SharonSears
 ---
 
 Шаблон MSRC ppDocument
